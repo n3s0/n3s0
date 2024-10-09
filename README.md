@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Timothy Loftus (n3s0)</h1>
-<h3 align="center">A Network Administrator that plays with Linux and code.</h3>
+<h3 align="center">A Network Administrator that enjoys coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3s0&label=Profile%20views&color=0e75b6&style=flat" alt="n3s0" /> </p>
 
