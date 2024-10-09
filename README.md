@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3s0&label=Profile%20views&color=0e75b6&style=flat" alt="n3s0" /> </p>
 
 ### Personal Journal
+- 📝 Can read at [https://n3s0.tech](https://n3s0.tech)
 ---
 <!-- BLOG-POST-LIST:START -->
 - [Show Configuration On Juniper](https://www.n3s0.tech/notes/juniper/show-config-juniper/)
@@ -12,8 +13,6 @@
 - [Revert To Factory Configuration On Juniper SRX220](https://www.n3s0.tech/notes/juniper/revert-factory-config-juniper-srx220/)
 - [Entry 10-02-2024](https://www.n3s0.tech/entries/20241002/)
 <!-- BLOG-POST-LIST:END -->
-
-- 📝 Can read at [https://n3s0.tech](https://n3s0.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
