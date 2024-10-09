@@ -3,7 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3s0&label=Profile%20views&color=0e75b6&style=flat" alt="n3s0" /> </p>
 
+## About Me
+
+I'm working as a Network Administrator. But, outside of that I'm spending time
+with my family, building random projects, writting in my journal, and working
+through improving my productivity.
+
 ### Personal Journal
+---
 - 📝 Can read at [https://n3s0.tech](https://n3s0.tech)
 ---
 <!-- BLOG-POST-LIST:START -->
