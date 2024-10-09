@@ -6,6 +6,11 @@
 ### Personal Journal
 ---
 <!-- BLOG-POST-LIST:START -->
+- [Show Configuration On Juniper](https://www.n3s0.tech/notes/juniper/show-config-juniper/)
+- [Show Current JunOS Version](https://www.n3s0.tech/notes/juniper/show-current-junos-version/)
+- [Configure Hostname On Juniper](https://www.n3s0.tech/notes/juniper/configure-hostname-on-juniper/)
+- [Revert To Factory Configuration On Juniper SRX220](https://www.n3s0.tech/notes/juniper/revert-factory-config-juniper-srx220/)
+- [Entry 10-02-2024](https://www.n3s0.tech/entries/20241002/)
 <!-- BLOG-POST-LIST:END -->
 
 - 📝 Can read at [https://n3s0.tech](https://n3s0.tech)
