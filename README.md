@@ -15,11 +15,11 @@ through improving my productivity.
 ---
 Some recent entries.
 <!-- BLOG-POST-LIST:START -->
+- [Taipei: Come a-knocking](https://www.n3s0.tech/projects/sadservers/taipei/)
 - [Bata: Find in /proc](https://www.n3s0.tech/projects/sadservers/bata/)
 - [Show Configuration On Juniper](https://www.n3s0.tech/notes/juniper/show-config-juniper/)
 - [Show Current JunOS Version](https://www.n3s0.tech/notes/juniper/show-current-junos-version/)
 - [Configure Hostname On Juniper](https://www.n3s0.tech/notes/juniper/configure-hostname-on-juniper/)
-- [Revert To Factory Configuration On Juniper SRX220](https://www.n3s0.tech/notes/juniper/revert-factory-config-juniper-srx220/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
