@@ -14,11 +14,11 @@ through improving my productivity.
 
 Some recent entries.
 <!-- BLOG-POST-LIST:START -->
+- [SadServers: Bilbao: Basic Kubernetes Problems](https://www.n3s0.tech/projects/sadservers/bilbao/)
+- [Juniper: Boot To Single-User Mode](https://www.n3s0.tech/notes/juniper/boot-to-single-user-mode/)
+- [Juniper: Root Password Recovery In Recovery Mode](https://www.n3s0.tech/notes/juniper/root-password-recovery/)
+- [Juniper: Configure U-Boot To Enable Singe-User Mode Boot](https://www.n3s0.tech/notes/juniper/set-uboot-to-allow-single-user-mode/)
 - [Entry 10-13-2024](https://www.n3s0.tech/entries/20241013/)
-- [Taipei: Come a-knocking](https://www.n3s0.tech/projects/sadservers/taipei/)
-- [Bata: Find in /proc](https://www.n3s0.tech/projects/sadservers/bata/)
-- [Show Configuration On Juniper](https://www.n3s0.tech/notes/juniper/show-config-juniper/)
-- [Show Current JunOS Version](https://www.n3s0.tech/notes/juniper/show-current-junos-version/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
