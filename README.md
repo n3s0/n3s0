@@ -12,7 +12,7 @@ I'm here to lurk through and assist with open-source projects and work on design
 
 📝  To stay up to date with my journal [https://n3s0.tech](https://n3s0.tech)
 
-Some recent entries.
+Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
 - [SadServers: Bilbao: Basic Kubernetes Problems](https://www.n3s0.tech/projects/sadservers/bilbao/)
 - [Juniper: Boot To Single-User Mode](https://www.n3s0.tech/notes/juniper/boot-to-single-user-mode/)
