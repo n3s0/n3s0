@@ -13,13 +13,13 @@ through improving my productivity.
 - 📝 Can read at [https://n3s0.tech](https://n3s0.tech)
 
 Some recent entries.
-<!-- BLOG-POST-LIST:START -->
+<!-- Blog:START -->
 - [Entry 10-13-2024](https://www.n3s0.tech/entries/20241013/)
 - [Taipei: Come a-knocking](https://www.n3s0.tech/projects/sadservers/taipei/)
 - [Bata: Find in /proc](https://www.n3s0.tech/projects/sadservers/bata/)
 - [Show Configuration On Juniper](https://www.n3s0.tech/notes/juniper/show-config-juniper/)
 - [Show Current JunOS Version](https://www.n3s0.tech/notes/juniper/show-current-junos-version/)
-<!-- BLOG-POST-LIST:END -->
+<!-- Blog:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
