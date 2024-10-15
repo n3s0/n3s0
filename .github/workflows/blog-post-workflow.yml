@@ -16,4 +16,5 @@ jobs:
       - name: Pull in n3s0.tech posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          feed_names: "Blog"
           feed_list: "https://www.n3s0.tech/index.xml"
