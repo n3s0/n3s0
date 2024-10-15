@@ -5,8 +5,11 @@
 I'm here to lurk through and assist with open-source projects and work on designing my own tools.
 
 🔭  Probably troubleshooting a wireless network somewhere.
+
 🌱  I’m currently learning Go and Flask
+
 📝  Currently reviewing IKEv1 and IKEv2.
+
 📝  To stay up to date with my journal [https://n3s0.tech](https://n3s0.tech)
 
 Some recent entries.
