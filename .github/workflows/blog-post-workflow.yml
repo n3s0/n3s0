@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in n3s0.tech posts
-        uses: gautamkrishnar/blog-post-workflow@v2
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.n3s0.tech/index.xml"
