@@ -18,3 +18,4 @@ jobs:
         with:
           feed_names: "Blog"
           feed_list: "https://www.n3s0.tech/index.xml"
+          disable_item_validation: true
