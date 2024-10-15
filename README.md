@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Timothy Loftus (n3s0)</h1>
-<h3 align="center">A Network Administrator that enjoys coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3s0&label=Profile%20views&color=0e75b6&style=flat" alt="n3s0" /> </p>
 
@@ -10,9 +9,9 @@ with my family, building random projects, writting in my journal, and working
 through improving my productivity.
 
 ### Personal Journal
----
+
 - 📝 Can read at [https://n3s0.tech](https://n3s0.tech)
----
+
 Some recent entries.
 <!-- BLOG-POST-LIST:START -->
 - [Entry 10-13-2024](https://www.n3s0.tech/entries/20241013/)
