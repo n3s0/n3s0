@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntu Update Playbook: CHANGELOG](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/changelog/)
+- [Ubuntu Update Playbook: FAQ](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/faq/)
+- [Ubuntu Update Playbook: Setup](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/setup/)
+- [Ubuntu Update Playbook: Usage](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/usage/)
 - [Fortinet: Performing Cable Tests On FortiSwitch Ports](https://www.n3s0.tech/notes/fortinet/cable-test-on-fortiswitch/)
-- [SadServers: Bilbao: Basic Kubernetes Problems](https://www.n3s0.tech/projects/sadservers/bilbao/)
-- [Juniper: Boot To Single-User Mode](https://www.n3s0.tech/notes/juniper/boot-to-single-user-mode/)
-- [Juniper: Root Password Recovery In Recovery Mode](https://www.n3s0.tech/notes/juniper/root-password-recovery/)
-- [Juniper: Configure U-Boot To Enable Singe-User Mode Boot](https://www.n3s0.tech/notes/juniper/set-uboot-to-allow-single-user-mode/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
