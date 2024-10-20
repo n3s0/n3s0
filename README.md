@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Entry 10-20-2024](https://www.n3s0.tech/entries/20240916-copy/)
 - [Ubuntu Update Playbook: CHANGELOG](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/changelog/)
 - [Ubuntu Update Playbook: FAQ](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/faq/)
 - [Ubuntu Update Playbook: Usage](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/usage/)
 - [Ubuntu Update Playbook: Setup](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/setup/)
-- [Fortinet: Performing Cable Tests On FortiSwitch Ports](https://www.n3s0.tech/notes/fortinet/cable-test-on-fortiswitch/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
