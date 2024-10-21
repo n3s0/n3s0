@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Entry 10-21-2024](https://www.n3s0.tech/entries/20241021/)
 - [Entry 10-20-2024](https://www.n3s0.tech/entries/20241020/)
 - [Ubuntu Update Playbook: CHANGELOG](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/changelog/)
 - [Ubuntu Update Playbook: FAQ](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/faq/)
 - [Ubuntu Update Playbook: Usage](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/usage/)
-- [Ubuntu Update Playbook: Setup](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/setup/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
