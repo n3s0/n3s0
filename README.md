@@ -43,6 +43,19 @@ simple playbook I'm using to update my Ubuntu servers when I need to. Just add t
 servers to the hosts file, confirm that you have their public SSH keys, and off you
 go. Let it run. 
 
+### Terraform Files
+
+I like to make the barrier between initial deployment and system setup as
+efficient as possible. So, sometimes I'll orchestrate servers and cloud
+instances with Terraform. Listed are files I use to accomplish this. Most of
+these will have generics and items that need to be configured in the main.tf
+files.
+
+[Basic Ubuntu Server Vultr](https://github.com/n3s0/tf-basic-ubuntu-server-vultr) : 
+Ubuntu Server deployment using Vultr with minimal resources. I use this to
+automate Ubuntu Server deployments for learning and testing software when the
+requirements are minimal.
+
 ### Open-Source Bits
 
 I haven't completely developed all of these just yet. But, here are some 
