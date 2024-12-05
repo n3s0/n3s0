@@ -66,10 +66,9 @@ in Go that is a simple subnet calculator. But, there's a little twist to it.
 I've added a few reference tables for subnetting, ethernet cable length, and 
 soon there will be a reference for wireless channels and standards.
 
-peer : This is currently just an idea. But, I've recently round myself needing 
-to review peering information to determine why customers are offline. The idea 
-here is to provide a broad spectrum of information related to a public IP 
-address and its place on the Internet.
+[randfile](https://github.com/n3s0/randfile) : A command-line tool written in Go
+for picking a random file from a list of files in a directory. My primary use
+case for this is random wallpaper selection for the Sway and i3 window managers.
 
 I've recently moved my software projects and my blog to GitHub. Mostly due to 
 the community aspect that it provides. I enjoy building tools that will be 
