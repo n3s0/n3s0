@@ -70,6 +70,9 @@ soon there will be a reference for wireless channels and standards.
 for picking a random file from a list of files in a directory. My primary use
 case for this is random wallpaper selection for the Sway and i3 window managers.
 
+[certchecker](https://github.com/n3s0/certchecker) : A command-line tool I wrote
+in Go that provides basic certificate information about a website.
+
 I've recently moved my software projects and my blog to GitHub. Mostly due to 
 the community aspect that it provides. I enjoy building tools that will be 
 beneficial towards my carreer and my life. Generally, that is the reason for 
