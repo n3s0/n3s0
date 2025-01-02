@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [GCP: VPC Network With Custom Subnets and Firewall Rules Using Gcloud Shell](https://www.n3s0.tech/notes/gcp/gcp-vpc-networks-subnets-and-firewall-rules/)
+- [Install And Setup swaylock-effects On Ubuntu](https://www.n3s0.tech/notes/20241104102501/)
 - [Generating A QR Code For Easy Access To Wireless](https://www.n3s0.tech/notes/20241103211301/)
 - [Randomize Wallpapers For Sway Using Python](https://www.n3s0.tech/notes/code/python/random-backgrounds-sway/)
 - [Entry 10-21-2024](https://www.n3s0.tech/entries/20241021/)
-- [Entry 10-20-2024](https://www.n3s0.tech/entries/20241020/)
-- [Ubuntu Update Playbook: CHANGELOG](https://www.n3s0.tech/projects/ansible/ubuntu-update-playbook/changelog/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
