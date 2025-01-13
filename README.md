@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Checking Certificate Using OpenSSL](https://www.n3s0.tech/notes/20250110150100/)
 - [Entry 01-07-2025](https://www.n3s0.tech/entries/20250107/)
 - [Fortinet: Reset &amp; Restore Port Statistics On FortiSwitch](https://www.n3s0.tech/notes/fortinet/reset-port-stats-on-fortiswitch-port/)
 - [Fortinet: Check Port Statistics On FortiSwitch](https://www.n3s0.tech/notes/fortinet/check-port-statistics-on-fortiswitch/)
 - [Entry 01-04-2025](https://www.n3s0.tech/entries/20250104/)
-- [Entry 01-02-2025](https://www.n3s0.tech/entries/20250102/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
