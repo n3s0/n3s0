@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Fortinet: Negate Rules on ForiGate Policies.](https://www.n3s0.tech/notes/fortinet/negate-rules-on-fortigate-policies/)
+- [Fortinet: Add An Address External Resource To FortiGate](https://www.n3s0.tech/notes/fortinet/adding-an-address-external-resource-to-fortigate/)
+- [Fortinet: Troubleshoot Certificate File is Duplicated for CA/Local/Remote/Crl cert](https://www.n3s0.tech/notes/fortinet/troubleshoot-duplicate-for-ca-local-remote-crl-cert-err/)
 - [Checking Certificate Using OpenSSL](https://www.n3s0.tech/notes/20250110150100/)
 - [Entry 01-07-2025](https://www.n3s0.tech/entries/20250107/)
-- [Fortinet: Reset &amp; Restore Port Statistics On FortiSwitch](https://www.n3s0.tech/notes/fortinet/reset-port-stats-on-fortiswitch-port/)
-- [Fortinet: Check Port Statistics On FortiSwitch](https://www.n3s0.tech/notes/fortinet/check-port-statistics-on-fortiswitch/)
-- [Entry 01-04-2025](https://www.n3s0.tech/entries/20250104/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
