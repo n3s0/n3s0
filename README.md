@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Cisco: TDR Cable Diagnostic On Cisco Switch Port](https://www.n3s0.tech/notes/cisco/tdr-cable-diag-on-switch-port/)
+- [Reading Updates for Q1 2025](https://www.n3s0.tech/projects/reading/updates/2025-q1-updates/)
 - [Troubleshooting Nautobot As A Docker Container Docker Compose Not Found](https://www.n3s0.tech/notes/20250301003301/)
 - [Fortinet: Negate Rules on ForiGate Policies.](https://www.n3s0.tech/notes/fortinet/negate-rules-on-fortigate-policies/)
 - [Fortinet: Add An Address External Resource To FortiGate](https://www.n3s0.tech/notes/fortinet/adding-an-address-external-resource-to-fortigate/)
-- [Fortinet: Troubleshoot Certificate File is Duplicated for CA/Local/Remote/Crl cert](https://www.n3s0.tech/notes/fortinet/troubleshoot-duplicate-for-ca-local-remote-crl-cert-err/)
-- [Checking Certificate Using OpenSSL](https://www.n3s0.tech/notes/20250110150100/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
