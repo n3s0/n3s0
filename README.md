@@ -15,7 +15,7 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
-- [Design: Simple Residential Network Design &lpar;Fiber To The Home&rpar;](https://www.n3s0.tech/notes/networks/simple-home-network-fth/)
+- [Design: Simple Residential Network Design &lpar;Fiber To The Home&rpar;](https://www.n3s0.tech/notes/networks/simple-residential-network-ftth/)
 - [Fortinet: Show Routing Table On FortiOS](https://www.n3s0.tech/notes/fortinet/show-routing-table-on-fortigate/)
 - [Entry 06-20-2025](https://www.n3s0.tech/entries/20250620/)
 - [Fortinet: Troubleshooting Response Validation Failed. SAML Response Rejected Error](https://www.n3s0.tech/notes/fortinet/troubleshoot-admin-auth-err-response-validation-failed-saml-response-rejected/)
