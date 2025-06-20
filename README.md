@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Design: Simple Residential Network Design &lpar;Fiber To The Home&rpar;](https://www.n3s0.tech/notes/networks/simple-home-network-fth/)
+- [Fortinet: Show Routing Table On FortiOS](https://www.n3s0.tech/notes/fortinet/show-routing-table-on-fortigate/)
+- [Entry 06-20-2025](https://www.n3s0.tech/entries/20250620/)
 - [Fortinet: Troubleshooting Response Validation Failed. SAML Response Rejected Error](https://www.n3s0.tech/notes/fortinet/troubleshoot-admin-auth-err-response-validation-failed-saml-response-rejected/)
 - [Cisco: TDR Cable Diagnostic On Cisco Switch Port](https://www.n3s0.tech/notes/cisco/tdr-cable-diag-on-switch-port/)
-- [Reading Updates for Q1 2025](https://www.n3s0.tech/projects/reading/updates/2025-q1-updates/)
-- [Troubleshooting Nautobot As A Docker Container Docker Compose Not Found](https://www.n3s0.tech/notes/20250301003301/)
-- [Fortinet: Negate Rules on ForiGate Policies.](https://www.n3s0.tech/notes/fortinet/negate-rules-on-fortigate-policies/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
