@@ -7,7 +7,7 @@ my own tools.
 
 🔭  Probably troubleshooting a wireless network somewhere.
 
-🌱  I’m currently learning Go, Rust, and Flask
+🌱  I’m currently learning Go, Zig, and Flask
 
 📝  Currently reviewing IKEv1, IKEv2, and BGP.
 
