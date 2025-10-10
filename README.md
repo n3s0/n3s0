@@ -16,10 +16,10 @@ my own tools.
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
 - [fgpm-exporter](https://www.n3s0.tech/projects/fgpm-exporter/)
+- [Support](https://www.n3s0.tech/support/)
 - [Edit Interface Metrics Using Windows PowerShell](https://www.n3s0.tech/notes/windows/use-both-ethernet-and-wireless-using-powershell/)
 - [Managing Multiple Kubernetes Clusters](https://www.n3s0.tech/notes/kubernetes/managing-multiple-kubernetes-clusters/)
 - [Fortinet: Set HA Active-Passive FortiGate Cluster Back to Primary](https://www.n3s0.tech/notes/fortinet/set-ha-pair-back-to-original-primary/)
-- [Notes: RFC 1918: Address Allocation for Private Networks](https://www.n3s0.tech/notes/rfcnotes/rfc1918/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
