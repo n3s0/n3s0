@@ -16,10 +16,10 @@ my own tools.
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
 - [Some Updates To This Website - 2025-10](https://www.n3s0.tech/feed/journal/some-updates-to-this-website-2025-10/)
+- [Library](https://www.n3s0.tech/library/)
 - [fgpm-exporter](https://www.n3s0.tech/projects/fgpm-exporter/)
 - [Edit Interface Metrics Using Windows PowerShell](https://www.n3s0.tech/feed/notes/microsoft/use-both-ethernet-and-wireless-using-powershell/)
 - [Managing Multiple Kubernetes Clusters](https://www.n3s0.tech/feed/notes/kubernetes/managing-multiple-kubernetes-clusters/)
-- [Fortinet: Set HA Active-Passive FortiGate Cluster Back to Primary](https://www.n3s0.tech/feed/notes/fortinet/set-ha-pair-back-to-original-primary/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
