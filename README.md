@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [sslvpnct-sh](https://www.n3s0.tech/projects/sslvpnct-sh/)
+- [fortigate_exporter](https://www.n3s0.tech/projects/fortigate_exporter/)
+- [subnetcalc](https://www.n3s0.tech/projects/subnetcalc/)
+- [randfile](https://www.n3s0.tech/projects/randfile/)
 - [Some Updates To This Website - 2025-10](https://www.n3s0.tech/feed/journal/some-updates-to-this-website-2025-10/)
-- [Library](https://www.n3s0.tech/library/)
-- [fgpm-exporter](https://www.n3s0.tech/projects/fgpm-exporter/)
-- [Edit Interface Metrics Using Windows PowerShell](https://www.n3s0.tech/feed/notes/microsoft/use-both-ethernet-and-wireless-using-powershell/)
-- [Managing Multiple Kubernetes Clusters](https://www.n3s0.tech/feed/notes/kubernetes/managing-multiple-kubernetes-clusters/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
