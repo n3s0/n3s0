@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Edit DNS Client Using systemd/resolved.conf File](https://www.n3s0.tech/feed/notes/linux/change-dns-with-systemd-resolved-config-file/)
 - [Obtain Information Of Devices Connected To A Cisco Switch Using CDP](https://www.n3s0.tech/feed/notes/cisco/obtain-information-of-devices-connected-to-a-cisco-switch-using-cdp/)
 - [Obtain Information Of Devices Connected To A Cisco Switch Using LLDP](https://www.n3s0.tech/feed/notes/cisco/obtain-information-of-devices-connected-to-a-cisco-switch-using-lldp/)
 - [Troubleshooting PoE Not Supplying Power To Ports On FortiSwitch](https://www.n3s0.tech/feed/notes/fortinet/troubleshooting-poe-not-supplying-power-on-fortiswitch/)
 - [Configuring VLANs On FortiSwitch Port From FortiGate](https://www.n3s0.tech/feed/notes/fortinet/adding-vlans-to-fortiswitch-from-fortigate-switch-controller/)
-- [sslvpnct-sh](https://www.n3s0.tech/projects/sslvpnct-sh/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
