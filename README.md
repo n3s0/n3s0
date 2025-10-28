@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Starting A Shell On A Kubernetes Pod](https://www.n3s0.tech/feed/notes/kubernetes/start-a-shell-on-a-kubernetes-pod/)
 - [Configure A Static IP Address On FortiGate Interface](https://www.n3s0.tech/feed/notes/fortinet/configure-static-ip-address-on-fortigate-interface/)
-- [SANs Holiday Hack Challenge 2024: Snow-maggedon](https://www.n3s0.tech/feed/writeups/shhc-kringlecon/2024/)
+- [SANs Holiday Hack Challenge 2024: Snow-maggeddon](https://www.n3s0.tech/feed/writeups/shhc-kringlecon/2024/)
 - [Lacey, WA](https://www.n3s0.tech/travel/usa/wa/lacey-wa/)
 - [Seattle, WA](https://www.n3s0.tech/travel/usa/wa/seattle-wa/)
-- [Bremerton, WA](https://www.n3s0.tech/travel/usa/wa/bremerton-wa/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
