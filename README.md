@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Workaround For Issue With Shared WAN Ports After FortiOS v7.4.8 Upgrade](https://www.n3s0.tech/feed/notes/fortinet/issue-with-shared-wan-ports-after-fortios-7-4-8-upgrade/)
+- [Check &amp; Switch The Medium Of Shared WAN Ports On Fortigate](https://www.n3s0.tech/feed/notes/fortinet/check-and-switch-mediums-on-shared-wan-ports-on-fortigate/)
 - [Upcoming Projects In 2026](https://www.n3s0.tech/feed/journal/upcoming-projects-in-2026/)
 - [02-2026 Reading Update](https://www.n3s0.tech/feed/journal/reading-update-02-2026/)
 - [Apply New Kubernetes Pod/Deployment Configuration](https://www.n3s0.tech/feed/notes/kubernetes/update-kubernetes-pod-deployment-config/)
-- [List Kubernetes Resources Using Get Commands](https://www.n3s0.tech/feed/notes/kubernetes/list-kubernetes-resources-using-get-commands/)
-- [Restarting Kubernetes Deployments To Apply Config](https://www.n3s0.tech/feed/notes/kubernetes/restarting-kubernetes-deployments-to-apply-config/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
