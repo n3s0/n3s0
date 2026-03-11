@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
-- [Workaround For Issue With Shared WAN Ports After FortiOS v7.4.8 Upgrade](https://www.n3s0.tech/feed/notes/fortinet/issue-with-shared-wan-ports-after-fortios-7-4-8-upgrade/)
-- [Check &amp; Switch The Medium Of Shared WAN Ports On Fortigate](https://www.n3s0.tech/feed/notes/fortinet/check-and-switch-mediums-on-shared-wan-ports-on-fortigate/)
-- [Simple Residential Network Design &lpar;Fiber To The Home&rpar;](https://www.n3s0.tech/feed/notes/networks/simple-residential-network-ftth/)
-- [Upcoming Projects In 2026](https://www.n3s0.tech/feed/journal/upcoming-projects-in-2026/)
-- [02-2026 Reading Update](https://www.n3s0.tech/feed/journal/reading-update-02-2026/)
+- [Cracking The Vaultek LifePod 1.0 &lpar;VLP10-BK&rpar; Safe](https://www.n3s0.tech/feed/notes/safe-cracking/vaultek-lifepod-1/)
+- [Formatting External Hard Drive Using Disk Management On Windows 11](https://www.n3s0.tech/feed/notes/microsoft/format-external-hard-drives-with-disk-mgmt-windows-11/)
+- [Upgrade Netbox On Ubuntu Server 24.04 LTS Using Git](https://www.n3s0.tech/feed/build/netbox/upgrade-netbox-on-ubuntu/)
+- [Migrate Netbox from Ubuntu Server 22.04 LTS to Ubuntu Server 24.04 LTS](https://www.n3s0.tech/feed/build/netbox/migrate-netbox-to-ubuntu-24-04-lts/)
+- [Logoff Existing User Sessions In Linux](https://www.n3s0.tech/feed/notes/linux/logoff-existing-user-session/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
