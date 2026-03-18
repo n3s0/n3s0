@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Cario: Time for a Timer](https://www.n3s0.tech/feed/writeups/sadservers/cairo/)
+- [Oaxaca: Close an Open File](https://www.n3s0.tech/feed/writeups/sadservers/oaxaca/)
 - [How To Move Saved Game Data From PlayStation 4 to PlayStation 5](https://www.n3s0.tech/feed/notes/playstation/transferring-game-data-from-ps4-to-ps5/)
 - [Adding Locksmithing, Lock Picking &amp; Safe Cracking](https://www.n3s0.tech/feed/journal/adding-lock-picking-safe-cracking/)
 - [Cracking The Vaultek LifePod 1.0 &lpar;VLP10-BK&rpar; Safe](https://www.n3s0.tech/feed/notes/safe-cracking/vaultek-lifepod-1/)
-- [Formatting External Hard Drive Using Disk Management On Windows 11](https://www.n3s0.tech/feed/notes/microsoft/format-external-hard-drives-with-disk-mgmt-windows-11/)
-- [Upgrade Netbox On Ubuntu Server 24.04 LTS Using Git](https://www.n3s0.tech/feed/build/netbox/upgrade-netbox-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
