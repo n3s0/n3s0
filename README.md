@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Master Lock Model M530](https://www.n3s0.tech/feed/notes/physicalsecurity/locks/master-lock/master-lock-model-m530/)
+- [Master Lock No. 1](https://www.n3s0.tech/feed/notes/physicalsecurity/locks/master-lock/master-lock-no-1/)
 - [Quito: Control One Container from Another](https://www.n3s0.tech/feed/writeups/sadservers/quito/)
 - [Gained An Achievement On SadServers](https://www.n3s0.tech/feed/journal/sadservers-achievement/)
 - [Cario: Time for a Timer](https://www.n3s0.tech/feed/writeups/sadservers/cairo/)
-- [Oaxaca: Close an Open File](https://www.n3s0.tech/feed/writeups/sadservers/oaxaca/)
-- [How To Move Saved Game Data From PlayStation 4 to PlayStation 5](https://www.n3s0.tech/feed/notes/playstation/transferring-game-data-from-ps4-to-ps5/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
