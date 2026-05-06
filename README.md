@@ -15,11 +15,11 @@ my own tools.
 
 Some recent entries from my journal:
 <!-- BLOG-POST-LIST:START -->
+- [Ways To Prioritize DNS Over mDNS On Macbooks With .local Domains](https://www.n3s0.tech/feed/notes/apple/macbook/ways-to-prioritize-dns-over-mdns-with-dot-local-domains/)
 - [Using .local As A Top Level Domain](https://www.n3s0.tech/feed/notes/dns/dont-use-dot-local/)
 - [Master Lock Model M530](https://www.n3s0.tech/feed/notes/physicalsecurity/locks/master-lock/master-lock-model-m530/)
 - [Master Lock No. 1](https://www.n3s0.tech/feed/notes/physicalsecurity/locks/master-lock/master-lock-no-1/)
 - [Quito: Control One Container from Another](https://www.n3s0.tech/feed/writeups/sadservers/quito/)
-- [Gained An Achievement On SadServers](https://www.n3s0.tech/feed/journal/sadservers-achievement/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
